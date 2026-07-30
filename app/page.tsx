@@ -22,7 +22,7 @@ export default function Home() {
         <h1>Local control for<br />pixel-based neon.</h1>
         <p className="lede">Neon Flow is a straightforward Art-Net controller for building smooth color movement, gradients, and chases during a demo.</p>
         <div className="actions">
-          <a className="download" href="/releases/KG3-Neon-Flow-macOS-arm64.zip">Download for Apple Silicon <b>↓</b></a>
+          <a className="download" href="https://dl.kg3.io/KG3-Neon-Flow-macOS-arm64.zip">Download for Apple Silicon <b>↓</b></a>
           <a className="secondary" href="#install">Read install notes</a>
         </div>
         <p className="fine">macOS Apple Silicon · 115 MB · unsigned app</p>
